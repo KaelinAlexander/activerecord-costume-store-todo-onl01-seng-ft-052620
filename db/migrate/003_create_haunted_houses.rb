@@ -1,1 +1,5 @@
 class CreateHauntedHouses
+
+
+
+end
